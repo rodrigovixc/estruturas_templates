@@ -3,6 +3,8 @@ Layout responsivo em grid
 Usando tailwind
 
 Voce pode usar as mesmas screens ou usar do seu jeito e trocando tablet, cellphone para suas chaves no arquivo tailwind.config.js
+
+```
 theme: {
         extend: {
             // Quebras de tela personalizadas
@@ -14,7 +16,7 @@ theme: {
             },
         }
 }
-
+```
 # Padrao
 Dispositivo default 3 colunas e 2 linhas
 
